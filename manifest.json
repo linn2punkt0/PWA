@@ -1,0 +1,21 @@
+{
+  "short_name": "Inglourious Basterds",
+  "name": "Inglourious Basterds",
+  "icons": [
+    {
+      "src": "/small.jpg",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/big.jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#3367D6",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3367D6"
+}
